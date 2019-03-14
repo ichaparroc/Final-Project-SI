@@ -5,6 +5,7 @@ Paper: https://github.com/ichaparroc/Final-Project-SI/file/master/articulo.pdf
 
 ### Test corpus: InterTASS Monolingual PE 2018:
 http://www.sepln.org/workshops/tass/2018/task-1/private/evaluation/evaluate.php
+
 |Group                |Macro-P |Macro-R |Macro-F1  |Accuracy|
 |---------------------|--------|--------|----------|--------|
 |LARMINCC             |0.348   |0.353   |0.350     |0.403   |
