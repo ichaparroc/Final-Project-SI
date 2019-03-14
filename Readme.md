@@ -23,3 +23,6 @@ http://www.sepln.org/workshops/tass/2018/task-1/private/evaluation/output/LARMIN
 |              `2018`              |
 | ACC   | 0.3457 | 0.2578 | 0.4540 |
 | F1    | 0.2134 | 0.1446 | 0.3515 |
+
+![alt text](https://github.com/ichaparroc/Final-Project-SI/raw/master/paper-1.png)
+![alt text](https://github.com/ichaparroc/Final-Project-SI/raw/master/paper-2.png)
