@@ -10,6 +10,8 @@ http://www.sepln.org/workshops/tass/2018/task-1/private/evaluation/evaluate.php
 |---------------------|--------|--------|----------|--------|
 |LARMINCC             |0.348   |0.353   |0.350     |0.403   |
 
+# Comparative Analysis
+
 |       | ULMFiT | SIF    | OUR    | 
 |-------|--------|--------|--------|
 | MODEL | CNN    | MLP    | BI-LSTM|
