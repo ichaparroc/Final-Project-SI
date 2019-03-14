@@ -10,6 +10,8 @@ http://www.sepln.org/workshops/tass/2018/task-1/private/evaluation/evaluate.php
 |---------------------|--------|--------|----------|--------|
 |LARMINCC             |0.348   |0.353   |0.350     |0.403   |
 
+http://www.sepln.org/workshops/tass/2018/task-1/private/evaluation/output/LARMINCC-task1-intertass-PE-LSTM4-2019_03_14-10_54_53.txt
+
 # Comparative Analysis
 
 |       | ULMFiT | SIF    | OUR    | 
