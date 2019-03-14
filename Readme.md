@@ -1,7 +1,7 @@
 # Sentiment Analysis Using Deep Learning for Spanish Shorts Texts
 ## Authors: Alvaro Rojas & Israel Chaparro
 
-Paper: https://github.com/ichaparroc/Final-Project-SI/file/master/articulo.pdf
+Paper: https://github.com/ichaparroc/Final-Project-SI/blob/master/paper.pdf
 
 ### Test corpus: InterTASS Monolingual PE 2018:
 http://www.sepln.org/workshops/tass/2018/task-1/private/evaluation/evaluate.php
