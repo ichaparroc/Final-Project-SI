@@ -7,9 +7,9 @@ Paper: https://github.com/ichaparroc/Final-Project-SI/file/master/articulo.pdf
 |-------|--------|--------|--------|
 | MODEL | CNN    | MLP    | BI-LSTM|
 |-------|--------|--------|--------|
-|              2017                |
+|              `2017`              |
 | ACC   | 0.3951 |        |        |
 | F1    | 0.1946 |        |        |
-|              2018                |
+|              `2018`              |
 | ACC   | 0.3457 |        |        |
 | F1    | 0.2134 |        |        |
